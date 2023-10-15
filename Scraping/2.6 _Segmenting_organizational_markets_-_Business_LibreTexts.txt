@@ -1,0 +1,40 @@
+A number of basic approaches to segmenting organizational markets exist. An industrial marketing firm must be able to distinguish between the industries it
+sells to and the different market segments that exist in each of those industries. There are several basic approaches to segmenting organizational markets:
+(a) types of customers; (b) the Standard Industrial Classification; (c) end use; (d) common buying factors; and (e) buyer size and geography.2,16
+Type of customer. Industrial customers, both present and potential, can be classified into one of three groups,
+•  Original Equipment Manufacturers (OEMs), such as Caterpillar in the road equipment industry
+•  end-users, such as farmers who use farm machinery produced by John Deere and OEMs
+•  after market customers, such as those who purchase spare parts for a piece of machinery
+Similarly, industrial products can be classified into one of three categories, each of which is typically sold to only certain types of customers:
+•  Machinery and equipment (e.g. computers, trucks, bulldozers): these are end products sold only to OEM and end user segments.
+•  Components or subassemblies (e.g. switches, pistons, machine tool parts):these are sold to build and repair machinery and equipment and are sold in all
+three customer segments.
+•  Materials (e.g. chemicals, metals, herbicides): these are consumed in the end-user products and are sold only to OEMs and end users.
+
+The Standard Industrial Classification (SIC). A second industrial segmentation approach employs the Standard Industrial Classification (SIC) codes published
+by the US Government. The SIC classifies business firms by the main product or service provided. Firms are classified into one of ten basic STC industries.
+Within each classification, the major groups of industries can be identified by the first two numbers of the SIC code. For example, SIC number 22 are textile
+mills, SIC number 34 are manufacturers of fabricated metals, and so on. An industrial producer would attempt to identify the manufacturing groups that
+represent potential users of the products it produces and sells. Exhibit 4 takes the two digit classification and converts it to three-, four-, five-, and
+seven-digit codes. As you can see in Exhibit 4, use of the SIC code allows the industrial manufacturer to identify the organizations whose principal request
+is, in this case, pliers. Based upon this list of construction machinery and equipment products, it is possible to determine what products are produced by
+what manufacturers by consulting one of the following sources:
+•  Dun's Market Identifiers—computer-based records of three million United States and Canadian business establishments by four-digit SIC.
+•  Metalworking Directory—a comprehensive list of metalworking plants with 20 or more employees, as well as metal distributors, by four-digit SIC.
+•  Thomas Register of American Manufacturers—a directory of manufacturers, classified by products, enabling the researcher to identify most or all of the
+manufacturers of any given product.
+•  Survey of Industrial Purchasing Power—an annual survey of manufacturing activity in the United States by geographic areas and four-digit SIC industry
+groups; reports the number of plants with 20 or more and 100 or more employees, as well as total shipment value.
+End uses Sometimes industrial marketers segment markets by looking at how a product is used in different situations. When employing end-use segmentation, the
+industrial marketer typically conducts a cost/benefit analysis for each end-use application. The manufacturer must ask: What benefits does the customer want
+from this product? For example, an electric motor manufacturer learned that customers operated motors at different speeds. After making field visits to gain
+insight into the situation, he divided the market into slow speed and high speed segments. In the slow-speed segment, the manufacturer emphasized a
+competitively priced product with a maintenance advantage, while in the high-speed market product, superiority was stressed.
+Common buying factors. Some industrial marketers segment markets by identifying groups of customers who consider the same buying factors important. Five
+buying factors are important in most industrial buying situations: (1) product performance, (2) product quality, (3) service, (4) delivery, and (5) price.2
+Identifying a group of customers who value the same buying factors as important is difficult, as industrial organizations' and resellers' priorities often
+change.
+Buyer size and geography. If organizations' markets cannot be easily segmented by one of the previous approaches, market advantages may still be realized by
+segmenting based on account size or geographic boundaries. Sales managers have done this for years, but only recently have organizations learned to develop
+several pricing strategies for customers that are both close and far away geographically. Similarly, different strategies can be developed for large, medium,
+and small customers.
