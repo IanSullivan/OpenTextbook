@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "poker-302012",
+  "private_key_id": "c121600d2c045ae8382f0af82b55dca461c5c346",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOO7J+7WczmZjf\nuVoVcF/qTu8Gbdlc/AT2Ji6PNP6Qgbc9ujq9lfP+ETE1ahNy+H0caqUUWQM9SbfC\nT8AiV5mAFXx6iiGV4hIg45v2SqkFmIWUoFfma62xJ7AJfUceJ/wEX47p+IfiBsVL\nUXHSMkgYEHLK9J8DAPrTXQOnijPO1FbVD9qheoA1irqZYkDobPxxj5th3/sXv1/z\nRHQLPaow8QSYSRaoS7BOQtPMqcfh5f/kBcQJU99ffTLGxvBjvGhdC4BIi5zWjs/f\n79cnF9JWzoLSegUi2C60OUXNl8u/U2n9NgtrALNBcqS8zCxj4KC9iEwGeE3AG/XZ\nvFyYmLZXAgMBAAECggEAVAK7hrsc5Ec4oEJ4MO2TFPbMpfjPp/I97yvEoa+715AP\n3kRjs2FHgILuYczxWU9iX9YNo0lTaX8DLVOheBvpOuUFzUFBxzXNnro5iU4GpnHo\nUJA03neUzOrW6javZthw8DMhG6yTZf7OFg16aV70QWFJ8eVOdUHL65gjafeBfUoF\nFpWHTsVqvs0hnadkJVBnQajEDJwC3r+TF8ewUa2KmR8FkqodX+IZ21FIeNAbcKM7\n9wXSgFewwm7ekuLg3fnB1DT8x8DcgaIqgeH65eLjYyqJnxXibVdyEyOVa307eoXF\nSMkWkJy8wYybmQIrMQ3k0NLCpBgK2w1i0/tomnadwQKBgQDx2MHeOIueEtpHirPC\nMYML/LOZjt2bbu1gHgyARy3UoZSPx35Oo9dibs7mP4T2Se0CQ3pc+NS4oaNfUTyu\n15wbex6HExMXUm/S3k2XkqwER7UkN9EmZvhDOFUxDQkUGkWbf82shlrTrRRQoJ+x\nnQqpRTRplC+Y7SdQklY13XJU9wKBgQDaTWTHwNk8XeS8GXqXVSDq7EggfwSQohz/\nRfgd3jjkXmmYpy2uzsUfoVfLqZ4tBLw4CCWquTcFbYu5CLCf1pu2vKKtY/FmLwy9\nKWeYD0Jqb/gFTfYTljgz4EDvvNIyNI1kLgt32z9rgqxQszRGC00VaO6BFIZf0Npz\nCcIRFIIxoQKBgQDcMjThta45MIUZWkos55OfmGeVyqQu3yK1vuY27Zfm3286MbLo\nuvhiIO20aeUPsWNgCjwg5lYX/OOY54hO0PTLeJ/k8BMTyvURk2ImPV7tTrS40zFU\nu7AS0/mM/YdkjD8QQ57qFDIiRJYYiwabWpbYY7BC6K8ll9eR3osr5AIzJQKBgGo1\nTzv0MnyxPdDaII+yBiLltC3DPmhTxwHXe+CkNk+9M2jmpU4wIS3DZKCctG04qY4l\nQJYwKHnGkz0B4lTRp86fNhJf1pmdeHgrxc/wVKLOOP/zry5WXp+2kkFRP37XnJbJ\n5CB7Ff7rg4R7u4n8g5NQCwHYB4xkY3OmormGndUhAoGBAO5nTeyRcz5lM/7NDtgc\nk1M76djP4IjhsCY6HuJ+wbBAwQlSjKyTFRwW/e5uj3VQQHsdn4wnQbn6ys6ziupN\nrIjVMK5+5PS1UVGtp3vTXljbS5WCVJmQxolMQJamUOPbdgfECt99Hj66FmQYhIP4\nQ43HJk2nEBjxi8yg5o/eWqrW\n-----END PRIVATE KEY-----\n",
+  "client_email": "text2speech@poker-302012.iam.gserviceaccount.com",
+  "client_id": "108493697320284901797",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/text2speech%40poker-302012.iam.gserviceaccount.com"
+}
